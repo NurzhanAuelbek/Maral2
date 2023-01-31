@@ -1,0 +1,25 @@
+
+
+*:not(i) {
+
+    font-size: 18px ;
+
+}
+
+.ui.inverted.secondary.menu .teal.active {
+        background-color: #008080 !important;
+}
+
+.tab {
+
+    text-indent: 30px;
+}
+
+*:not(i) {
+
+    font-family: 'Ubuntu', "Open Sans" !important;
+}
+.masthead {
+    height: 55vh;
+}
+
